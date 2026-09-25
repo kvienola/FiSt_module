@@ -4,7 +4,9 @@ This repository contains all the files related to the FiSt module to recreate it
 
 If you find the module and its files useful in your research, we kindly ask you to cite our publication XXX. 
 
-__Maciej M. Bartuzel, PhD__  
+__Maciej M. Bartuzel, PhD__ \
+maciej.bartuzel@pwr.edu.pl
+
 Department of Biomedical Engineering  
 Wroclaw University of Science and Technology
 
